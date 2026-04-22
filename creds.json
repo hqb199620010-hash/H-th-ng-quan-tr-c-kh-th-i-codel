@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "quantrac-494010",
+  "private_key_id": "4e9ab15404ff68bffc5a68beb482368ca64bf297",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+Fd+VySgf2l6d\nxTCF7DkdhDgxZ3vVDikNted1WPk0uCJQ4Kf7NJVeh6uCT+2Cindpc41HSXPt0g0+\nmBij/LXUiVUzIgNlokdN9Cja7cD0WjeEh1DSp6JoyReVL4EKQIcQxLIluCamZ5H8\nmZkAjf+a21sgxtPhrD3qI6LMi8zcx3emWWD44AzMJDHScSy5cGRfntl9+8OzRrf2\nJAQruMqNI6U+J+/6X0O8B/24K8qhtji3q53mFfHa6oOBHjbtnX7WfnjbTuS6iRIa\ni8E6hmNfCqThdZ6Hq8fJx+VC/2CqEiWekzUN0lIBPwuiEC61w0iOo81qPQNshr1s\nRwKCvuzLAgMBAAECggEACTfSABdhYOtmk5EYps32ARvvMQTQiQb8RQQcGuE7M0F2\nDI+wexVUObbWQZCzDGsURQ1g/bgurTWhWyE7b1cV0Z5CqaL4djPLRcOq6DRdG0cg\nEnG7dikXTlc+KQfE4rnkCD35rlbtV5GF5LGQLWo1dI2MWvJkG7ljcUN+0BuReOgF\nW0Ce4yTUEJ+/fi3Y1yP/2jy8VU2ejRg4RNzQmOr9XCJiGz+CQ7PH0Uuc4Fhaf4Gr\nK9myBmThT4BRcK8eS/KeyrLNQRqo6jl+UBn6QACE2axhvpRsopnaXZbbO3j3dXVD\naCNaQ0dKZCHHh5G/hVWYFhWibad3V7Cg53K4CUhpKQKBgQDhqYvYQ3jI2qgy+x5p\n73V2EnmRbaPyADQVjjhA+ic5NI4RF/9gRjKO3c0kQGZIoE5oauJoWVVDTEQBv2/2\n5YvZbn2q52h8uTRMJOh2YkSyN+fQxUidJl30KFgSb0K1QO6Nrl0aT8QKI4lpbFvi\nkC70X3VxfLp0K39BRsUMgBdr2QKBgQDXo+eiXoNmke1mXdqen4sg687K3BxHIxGO\n1tS6gJuMBQ/HpmJT60RVMiecdHbBozPpeFxQ8WFST4eKTt2ulJuYRyGh3AK0WUIm\nXqav+fVXx/KxgPFy0ZdRRAj9UT57EtbQVLrRYMZqtcGwi962hPDcH8qw/eIsFbx1\nd9ilopprQwKBgFxWpUukKEt/9a2Oxh4xBw5+dtJEW/6NiMJ9RJWKBvzIfY2PFUeO\n0edV6Th5RaFYP11Ix0ZNr67vCTDx5d3Qhg49wRxqvn2yxyyVOa4ffd6zM59g6tqr\nNWzQCWHZtyE15aeB/sTieORxMCw8U8j8mMoUOZlroVwh5FuQmtcHnw3ZAoGBAKD9\nnVF7fl51U+e46h7Cvfw2EI0jB3mUlOcvPGKA4aAHp2BGt+IvIzT33NrRmFe4oGkN\nkt5bV208MtTvTFGqYP+vG0zcFKjQerJqt8dpteFzRZ1/xsMR9waU5KE6por75aRj\nnZXzyi6gw5oq0nsxhSDSG2FIKjL/h1OrxfLjEqZBAoGBAMZFDTTq2WA2J1etUnhY\nQaPRG//S3T/Hijfxl4CGLNbI/vlqCAOm7Qy0WXsHDVHNYny4e9xoPAPXVLzY1L28\nwl7C1UPHKRLfHuuTZ+tCKkja6PJxlptVixqmCmd9xSEhyrCoHAlu9sr3jh5dixmO\nfwVWyjj/qApaTBvm0ENx5XXo\n-----END PRIVATE KEY-----\n",
+  "client_email": "web-quan-trac@quantrac-494010.iam.gserviceaccount.com",
+  "client_id": "113029827510850390687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/web-quan-trac%40quantrac-494010.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
